@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+article h2{
+	text-align:center;
+	font-size:24px;
+}
+article p{
+	text-align:justify;
+	margin:10px;
+	font-size:20px;
+}
+
